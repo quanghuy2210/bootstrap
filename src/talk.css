@@ -1,0 +1,31 @@
+
+.talk{
+    padding: 20px 150px;
+    width: 100%;
+    height: auto;
+    background-color:#F7F8FA ;
+}
+.wrapper-talk{
+    margin: 40px 0;
+    display: flex;
+    background-color: #fff;
+}
+.talk-details{
+  margin-left: 40px;
+}
+.talk-details .title{
+    text-align: left;
+}
+.para-talk{
+    font-size: 1.3rem;
+    line-height: 25px;
+}
+.para-talk a{
+    color: #41A4F5;
+    text-decoration: none;
+}
+.para-talk a:hover{
+    color: #0c7fde;
+    text-decoration: underline;
+}
+
